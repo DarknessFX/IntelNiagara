@@ -18,12 +18,12 @@ Niagara Emitter in UE4.25.4 based on Intel GameDev article.
 
 The original Intel GameDev article <a href="https://software.intel.com/content/www/us/en/develop/articles/unreal-engine-4-optimizations-for-423-and-beyond-part-2-niagara-particle-systems.html" target="_blank">Unreal Engine* 4 Optimizations for 4.23 and Beyond Part 2: Niagara Particle Systems</a> used UE4.23 Niagara and since then there was lots of changes in Niagara system and structure. This project is an updated version of that FX effect using the current UE4.25.4 version.
 
-Original effect:
+Original effect:<br/>
 <img src="https://github.com/DarknessFX/IntelNiagara/blob/main/ContentRaw/IntelNiagara_article.png" width="640px" />
 
-This project results:
+This project results:<br/>
 <img src="https://github.com/DarknessFX/IntelNiagara/blob/main/ContentRaw/IntelNiagara.jpg" width="640px" />
-
+<br/>
 ## Versioning
 
 v1.0 - Released.
